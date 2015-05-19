@@ -1,0 +1,9 @@
+c:\users\cosmin\documents\visual studio 2013\Projects\SMP_proiect\SMP_proiect\bin\Debug\SMP_proiect.exe.config
+c:\users\cosmin\documents\visual studio 2013\Projects\SMP_proiect\SMP_proiect\bin\Debug\SMP_proiect.exe
+c:\users\cosmin\documents\visual studio 2013\Projects\SMP_proiect\SMP_proiect\bin\Debug\SMP_proiect.pdb
+c:\users\cosmin\documents\visual studio 2013\Projects\SMP_proiect\SMP_proiect\obj\Debug\SMP_proiect.csprojResolveAssemblyReference.cache
+c:\users\cosmin\documents\visual studio 2013\Projects\SMP_proiect\SMP_proiect\obj\Debug\SMP_proiect.Main.resources
+c:\users\cosmin\documents\visual studio 2013\Projects\SMP_proiect\SMP_proiect\obj\Debug\SMP_proiect.Properties.Resources.resources
+c:\users\cosmin\documents\visual studio 2013\Projects\SMP_proiect\SMP_proiect\obj\Debug\SMP_proiect.csproj.GenerateResource.Cache
+c:\users\cosmin\documents\visual studio 2013\Projects\SMP_proiect\SMP_proiect\obj\Debug\SMP_proiect.exe
+c:\users\cosmin\documents\visual studio 2013\Projects\SMP_proiect\SMP_proiect\obj\Debug\SMP_proiect.pdb
