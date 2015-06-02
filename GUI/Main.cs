@@ -59,9 +59,10 @@ namespace SMP_proiect
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int cmd = Int32.Parse(textBox2.Text);
+            /*int cmd = Int32.Parse(textBox2.Text);
             byte [] b = BitConverter.GetBytes(cmd);
-            serialPort1.Write(b, 0, 2);
+            serialPort1.Write(b, 0, 2);*/
+            serialPort1.WriteLine(textBox2.Text);
         }
     }
 }
